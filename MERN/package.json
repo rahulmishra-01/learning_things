@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon 02_router/server.js"
+    "start": "nodemon 03_controllers/server.js"
   },
   "keywords": [],
   "author": "",
